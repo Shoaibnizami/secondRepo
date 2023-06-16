@@ -1,2 +1,1 @@
-This is file3.txt 
-New line added in GitHub
+This is file3.txt created locally
